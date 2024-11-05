@@ -21,6 +21,7 @@ Ramas ----------------------------
 
 # Descargar desde una rama secundaria (YeisonDev)
 - git pull origin YeisonDev
+- git pull origin YeisonDev
 --------------------------------------------
 
 # MANEJO DE RAMAS
