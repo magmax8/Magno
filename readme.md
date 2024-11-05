@@ -16,12 +16,14 @@
 Ramas ----------------------------
 1. MagnoliaDev
 2. YeisonDev
+3. master
 3. Main
 
 
 # Descargar desde una rama secundaria (YeisonDev)
-- git pull origin YeisonDev
-- git pull origin YeisonDev
+- git pull origin 
+- git pull origin 
+- git pull origin 
 --------------------------------------------
 
 # MANEJO DE RAMAS
